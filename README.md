@@ -1,1 +1,1 @@
-In the Statistical Learning Methods course, I gained a deep understanding of various statistical and machine learning techniques, all implemented using Python. The highlight of the experience was winning the class ML competition, where my RF model outperformed others in F1-Score.
+In the Statistical Learning Methods course, I gained a deep understanding of various statistical and machine learning techniques, all implemented using Python. The highlight of the experience was winning the class ML competition, where my RF model outperformed others in F1-Score metric.
